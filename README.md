@@ -1,5 +1,5 @@
 # Quick-launcher
-A sample  chrome extension managing social handles.
+A chrome extension for managing social handles.
 
 
 
